@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TimeTableActivity!</string>
+    <string name="app_name">Lecture scheduler</string>
+    <string name="empty"/>
+    <string name="days">&quot;Days \n\nMonday \n\nTuesday \n\nWednesday \n\nThursday\n \nFriday \n\nSaturday&quot;</string>
+    <color name="white">#ffffff</color>
+    <color name="text">#bebfc1</color>
+    <color name="purewhite">#ffffff</color>
+
+</resources>
